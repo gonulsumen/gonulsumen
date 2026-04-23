@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Gönül 👋
 
-<!--
-**gonulsumen/gonulsumen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain developer and active Arc Network community member.
+I build stablecoin payment solutions, smart contracts, and agentic economy applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Hardhat](https://img.shields.io/badge/Hardhat-yellow?style=flat)
+
+---
+
+## 🌐 Focus Areas
+
+- 💰 USDC & stablecoin payment integrations
+- 📜 EVM smart contract development (Solidity)
+- 🤖 Agentic economy protocols (ERC-8183)
+- 🔗 Circle App Kits & Arc Network ecosystem
+
+---
+
+## 📌 Currently
+
+Actively building on the Arc Network ecosystem.
+Working on onchain payment flows and Circle Wallets integrations.
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME_HERE](https://www.linkedin.com/in/g%C3%B6n%C3%BCl-s%C3%BCmen-961713405/))

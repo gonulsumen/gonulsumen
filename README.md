@@ -28,9 +28,3 @@ I build stablecoin payment solutions, smart contracts, and agentic economy appli
 
 Actively building on the Arc Network ecosystem.
 Working on onchain payment flows and Circle Wallets integrations.
-
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME_HERE](https://www.linkedin.com/in/g%C3%B6n%C3%BCl-s%C3%BCmen-961713405/))
